@@ -8,6 +8,7 @@ The program run_analysis.r does the following:
 --Writes the tidy dataset into a file
 
 Variables:
+
 --Subject - identifies the test subject that is either in the test or train group
 --Activity - Type of aathletic ctivity of the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 --Mean (mean) and Standard Deviation (std) variables - based on measurements from the accelerometers
