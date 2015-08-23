@@ -13,3 +13,5 @@ To run this program:
 1. Download and unzip data sources from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Dowloand run_analysis.r into your working directory
 3. Run source(run_analysis.r) to generate tidy_data.txt
+
+
